@@ -22,3 +22,5 @@ Future Enhancements 🔮
 Integrate with a frontend for easy interaction.
 Implement metadata and image support.
 Expand functionality with ERC-721 standards.
+
+
